@@ -1,6 +1,6 @@
 # Toroidal Tic-Tac-Toe (Pebble Time 2)
 
-3×3 tic-tac-toe on a torus: 12 winning lines, Perfect/Easy AI, persistent games, flat and 3D torus views.
+3×3 tic-tac-toe on a 3D torus.
 
 ## Layout
 ```
