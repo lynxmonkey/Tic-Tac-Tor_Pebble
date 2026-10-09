@@ -1,4 +1,4 @@
-# Toroidal Tic-Tac-Toe (Pebble Time 2)
+# Toroidal Tic-Tac-Toe (For Pebble Time 2)
 
 3×3 tic-tac-toe on a 3D torus.
 
